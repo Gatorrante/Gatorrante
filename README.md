@@ -24,9 +24,6 @@ I'm Diego Miñano, a Software Engineering student.
 - 🎮 Working on exciting and interesting projects
 - 🚀 Continuously learning and experimenting with new technologies
 
-<h2 align="center">👾 My Contributions 👾</h2>
-
-![snake gif](https://github.com/Gatorrante/Gatorrante/blob/output/github-contribution-grid-snake.svg)
 
 
 <!-- Contact -->
@@ -40,10 +37,6 @@ I'm Diego Miñano, a Software Engineering student.
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=your-username&color=blueviolet" alt="Profile Views">
 </p>
-
-<!-- Contributions section> -->
-
-
 
 <!--
 **Gatorrante/Gatorrante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -59,3 +52,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
