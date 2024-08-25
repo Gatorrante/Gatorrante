@@ -9,6 +9,13 @@
 </p>
 
 <!-- Banner GIF Centered -->
+<!-- Typing SVG Centered and Above GIF -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=494DF7&width=435&lines=Hello+There!+%F0%9F%91%8B;I'm+Diego+Mi%C3%B1ano" alt="Typing SVG" style="position:relative; z-index:2;">
+  </a>
+</p>
+
 <p align="center">
   <img src="img/banner.gif" alt="Banner GIF" style="position:relative; z-index:1;">
 </p>
