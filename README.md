@@ -5,7 +5,7 @@
 <!-- Typing SVG Aligned Slightly to the Right -->
 <p align="left" style="margin-left: 20px;">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=494DF7&width=435&lines=Hello+There!+%F0%9F%91%8B;I'm+Diego+Mi%C3%B1ano" alt="Typing SVG" style="position:relative; z-index:2;">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=494DF7&width=435&lines=Hello+World!+%F0%9F%91%8B;I'm+Diego+Mi%C3%B1ano" alt="Typing SVG" style="position:relative; z-index:2;">
   </a>
 </p>
 
@@ -13,12 +13,14 @@
 <p align="center">
   <img src="img/banner.gif" alt="Banner GIF" style="position:relative; z-index:1;">
 </p>
--------------------------------------------
 
+#
 <!-- Introduction -->
 ### 🤖 About Me
 
 I'm Diego Miñano, a Software Engineering student. I’m deeply passionate about **mobile application development**, **game development**, and creating **3D design**. My love for **Computer Graphics Design** drives me to explore the endless possibilities in combining creativity and technology. 
+
+
 
 ### 💻 Software Engineering | Game Developer | 3D Artist
 - 🎮 Working on exciting and interesting projects.
