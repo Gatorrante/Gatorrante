@@ -25,7 +25,9 @@ I'm Diego Miñano, a Software Engineering student.
 - 🚀 Continuously learning and experimenting with new technologies
 
 <h2 align="center">👾 My Contributions 👾</h2>
-![snake gif](https://github.com/Gatorrante/Gatorrante/blob/output/github-contribution-grid-snake.gif)
+
+![snake gif](https://github.com/Gatorrante/Gatorrante/blob/output/github-contribution-grid-snake.svg)
+
 
 <!-- Contact -->
 ### 📫 How to Reach Me
