@@ -29,7 +29,6 @@ I'm Diego Miñano, a Software Engineering student. I’m deeply passionate about
 - 🎨 Dedicated to crafting immersive 3D experiences, with a focus on integrating augmented reality.
 
   <!-- Skills section --!>
-  <details open>
 <summary>📂 My Skills</summary>
 
 <p align="center">
