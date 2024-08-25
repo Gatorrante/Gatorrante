@@ -165,11 +165,11 @@ I'm Diego Miñano, a Software Engineering student. I’m deeply passionate about
 </details>
 
 
-<!--<p align="center">
+  <p align="center">
   <a href="https://github.com/Gatorrante/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gatorrante&layout=compact&theme=auto" alt="Top Langs">
   </a>
-</p>-->
+</p>
 
 
 <!-- Contributions section -->
