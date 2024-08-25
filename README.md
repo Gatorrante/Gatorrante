@@ -24,7 +24,16 @@ I'm Diego Miñano, a Software Engineering student.
 - 🎮 Working on exciting and interesting projects
 - 🚀 Continuously learning and experimenting with new technologies
 
+  <!-- Contributions section -->
+<h2 align="center">👾 My Contributions 👾</h2>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Gatorrante/Gatorrante/blob/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Gatorrante/Gatorrante/blob/output/github-contribution-grid-snake.svg">
+    <img alt="github-snake" src="https://github.com/Gatorrante/Gatorrante/blob/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 <!-- Contact -->
 ### 📫 How to Reach Me
@@ -32,7 +41,7 @@ I'm Diego Miñano, a Software Engineering student.
 - [LinkedIn](https://www.linkedin.com/in/diego-mi%C3%B1ano)
 - [Twitter](https://twitter.com/your-twitter-handle)
 - [Email](mailto:your-email@example.com)
-
+- 
 <!-- Footer -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=your-username&color=blueviolet" alt="Profile Views">
